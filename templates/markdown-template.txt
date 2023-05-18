@@ -1,0 +1,24 @@
++++
+title = "_TITLE_"
+date = _DATE_
+updated = _DATE_
+tags = "Türkçe Podcast"
+slug = "_SLUG_"
+Authors = "_AUTHOR_"
+description = ""
++++
+_CONTENT_
+
+<div class="container">
+  <div class="podcast">
+    <div class="podcast__meta">
+      <audio controls width="100%">
+  <source src="_AUDIO_URL_">
+  Your browser does not support the audio tag.
+</audio>
+      <a href="#" class="artwork">
+ <img src="_EPCOVER_" alt="">
+</a>
+    </div>
+  </div>
+</div>
