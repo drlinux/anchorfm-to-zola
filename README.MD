@@ -23,4 +23,4 @@ The script will fetch the podcast metadata and episodes from the specified feed 
 
 ## License
 
-This project is licensed under tHE BEER-WARE license. See the LICENSE file for more details.
+This project is licensed under the BEER-WARE license. See the LICENSE file for more details.
