@@ -1,4 +1,4 @@
-# anchorfm-to-zola Script
+# anchorfm-to-zola
 
 The anchorfm-to-zola script is a tool for fetching podcast metadata and episodes from an AnchorFM RSS feed and creating individual post files using a template. The template is compatible with the [Zola](https://www.getzola.org/) static site generator, but it can be easily adapted to your preferred static site generator.
 
